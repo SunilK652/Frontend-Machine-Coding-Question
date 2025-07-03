@@ -59,3 +59,25 @@ input[type="radio"] {
   color: white;
   transition: 0.5s ease-in;
 }
+
+.search-input {
+  width: 500px;
+  padding: 10px;
+}
+.result-container {
+  width: 500px;
+  margin: auto;
+  border: 1px solid black;
+  padding: 5px;
+  text-align: left;
+  max-height: 500px;
+  overflow-y: scroll;
+}
+.result {
+  display: block;
+  padding: 5px;
+}
+.result:hover {
+  background-color: grey;
+  cursor: pointer;
+}
