@@ -7,7 +7,7 @@ import AutoCompleteSearchBar from './AutoCompleteSearchBar';
 
 function App() {
   // const LIST = Array.from({ length: 10000 }, (_, index)=> index +1);
-  const bars = [0, 5, 10, 30, 50, 70, 90, 100];
+  // const bars = [0, 5, 10, 30, 50, 70, 90, 100];
   return (
     <>
       <div>
